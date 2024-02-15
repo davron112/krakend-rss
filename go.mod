@@ -1,9 +1,9 @@
-module github.com/krakendio/krakend-rss/v2
+module github.com/davron112/krakend-rss/v2
 
 go 1.17
 
 require (
-	github.com/luraproject/lura/v2 v2.0.5
+	github.com/davron112/lura/v2 v2.0.5
 	github.com/mmcdole/gofeed v1.1.3
 )
 

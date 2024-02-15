@@ -3,7 +3,7 @@ package rss
 import (
 	"io"
 
-	"github.com/luraproject/lura/v2/encoding"
+	"github.com/davron112/lura/v2/encoding"
 	"github.com/mmcdole/gofeed"
 )
 
